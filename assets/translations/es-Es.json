@@ -1,0 +1,17 @@
+{
+    "kanban": "Kanban",
+    "completed_tasks": "Tareas completadas",
+    "enter_task_details": "Ingrese los detalles de la tarea",
+    "title": "Título",
+    "description": "Descripción",
+    "cancel": "Cancelar",
+    "done": "Hecho",
+    "new": "Nuevo",
+    "comments": "Comentarios",
+    "task_details": "Detalles de la tarea",
+    "task": "Tarea",
+    "add_comment": "Agregar comentario",
+    "time": "Tiempo",
+    "time_spent": "Tiempo transcurrido",
+    "completed_at": "Completado en"
+}

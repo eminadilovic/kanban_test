@@ -1,0 +1,17 @@
+{
+    "kanban":"Kanban",
+    "completed_tasks":"Completed tasks",
+    "enter_task_details":"Enter task details",
+    "title":"Title",
+    "description":"Description",
+    "cancel":"Cancel",
+    "done":"Done",
+    "new":"New",
+    "comments":"Comments",
+    "task_details":"Task Details",
+    "task":"Task",
+    "add_comment":"Add Comment",
+    "time": "Time",
+    "time_spent": "Time spent",
+    "completed_at": "Completed at"
+ }
