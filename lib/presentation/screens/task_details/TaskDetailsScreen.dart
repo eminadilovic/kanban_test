@@ -153,7 +153,8 @@ class _TaskDetailsScreenState extends State<TaskDetailsScreen> {
             tr('time') +
                 ':' +
                 '${(_elapsedSeconds ~/ 60).toString().padLeft(2, '0')}:${(_elapsedSeconds % 60).toString().padLeft(2, '0')}',
-            style: CustomTextStyles.title,
+            style:
+                Theme.of(context).textTheme.bodyMedium?.copyWith(fontSize: 18),
           ),
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
