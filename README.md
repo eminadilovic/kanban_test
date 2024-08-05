@@ -6,6 +6,10 @@ This is a simple **Drag and Drop Kanban Board** with three columns: **To Do**, *
 
 [Watch the Kanban Board Video on Vimeo](https://vimeo.com/994855614)
 
+## APK Download
+
+You can download the latest APK from Codemagic [here](https://api.codemagic.io/artifacts/.eJwVwceOgkAAANB_8U4y1IGDB8rCIHWI1AtZBFl6EQfk682-d6nlf8rwUjLWHO8fqT5-Fcy2Fsxdecsq4oNyp6zUEAJnZvPPOfVFWJj26pkpF4M2VuHpy-6tCN6009Frz29a3DBkDiZVphruQJBQYbSkzEOI9TkTn0TJN0HPQEnzbQamk0k8u7DmkiBHXXJ8CyUF4U7kUaBDeNPdrnmOu-sPAY17A3ORdKC_t1aAntKsZNnhoMRll6NT8Ned055lEuBtUA_Er_5CJVMtGimpWHVpcFoaQmUzI3m191U0mbD2uk6XkwfxwBDZOI0ooK3FMebv7Zy5kLzMnwRfr5cvj-9hZA.NMaVHGrVNUx0uul1PnBACmj4P9Y).
+
 ## Features
 
 - **Drag and Drop Kanban Board**: Organize tasks in three columns: To Do, In Progress, and Done.
@@ -24,6 +28,7 @@ This is a simple **Drag and Drop Kanban Board** with three columns: **To Do**, *
 - **State Management**: BLoC (Business Logic Component)
 - **JSON Serialization**: freezed, json_serializable
 - **Analytics**: Amplitude
+- **CI/CD**: Codemagic
 - **Notifications**: flutter_local_notifications
 - **Kanban Board**: appflowy_board (third-party tool)
 - **Routing**: go_router
@@ -93,7 +98,3 @@ This is a simple **Drag and Drop Kanban Board** with three columns: **To Do**, *
 - **easy_localization**: [easy_localization](https://pub.dev/packages/easy_localization)
 - **dio**: [dio](https://pub.dev/packages/dio)
 - **mockito**: [mockito](https://pub.dev/packages/mockito)
-
-## Video Demonstration
-
-[![Watch the video](https://img.youtube.com/vi/your_video_id/hqdefault.jpg)](https://youtu.be/your_video_id)
