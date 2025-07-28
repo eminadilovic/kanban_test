@@ -8,7 +8,7 @@ This is a simple **Drag and Drop Kanban Board** with three columns: **To Do**, *
 
 ## APK Download
 
-You can download the latest APK from Codemagic [here](https://api.codemagic.io/artifacts/.eJwVwceOgkAAANB_8U4y1IGDB8rCIHWI1AtZBFl6EQfk682-d6nlf8rwUjLWHO8fqT5-Fcy2Fsxdecsq4oNyp6zUEAJnZvPPOfVFWJj26pkpF4M2VuHpy-6tCN6009Frz29a3DBkDiZVphruQJBQYbSkzEOI9TkTn0TJN0HPQEnzbQamk0k8u7DmkiBHXXJ8CyUF4U7kUaBDeNPdrnmOu-sPAY17A3ORdKC_t1aAntKsZNnhoMRll6NT8Ned055lEuBtUA_Er_5CJVMtGimpWHVpcFoaQmUzI3m191U0mbD2uk6XkwfxwBDZOI0ooK3FMebv7Zy5kLzMnwRfr5cvj-9hZA.NMaVHGrVNUx0uul1PnBACmj4P9Y).
+You can download the latest APK from Codemagic [here](https://api.codemagic.io/artifacts/.eJwVwdu2QkAAANB_6d1axBEPPbg0EzmMYxi8WI3KaOSSkL6-dfbeVMY_s2MCl5N8LF6tuwuAFE_RnT6o06I0mrz6qHNIQNttDbW-MmcYJCVhDAc47sy5jO6L2MrLYj1jH-JA282wOryBhTo45jkUepDZqDexeLCUlaTnSyGsGhiMbEK5THsJNocFo_CSYTUaGgmi_hOOXKNx9mb4dfWPjl2xZC0bXUxR7B81quJG8qfwNJefqiDKjS9Xd-cpdKZ2F_xi1bRch05_8snVHaM4fx4wxKKdeUkk3uJBCUrAgzAn7eJJguBs1adOQM_Buf5Zk5kRwr2AycLovtI63O83X30zYYI._rFlV902KlX_2tJlFVEvUKByXQs).
 
 ## Features
 
